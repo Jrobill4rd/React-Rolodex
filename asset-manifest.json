@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Jrobill4rd/monsters-rolodex.git/static/css/main.4d0d8f6a.chunk.css",
-    "main.js": "/Jrobill4rd/monsters-rolodex.git/static/js/main.5b43abc4.chunk.js",
-    "main.js.map": "/Jrobill4rd/monsters-rolodex.git/static/js/main.5b43abc4.chunk.js.map",
-    "runtime-main.js": "/Jrobill4rd/monsters-rolodex.git/static/js/runtime-main.36b93b16.js",
-    "runtime-main.js.map": "/Jrobill4rd/monsters-rolodex.git/static/js/runtime-main.36b93b16.js.map",
-    "static/js/2.4ae214a8.chunk.js": "/Jrobill4rd/monsters-rolodex.git/static/js/2.4ae214a8.chunk.js",
-    "static/js/2.4ae214a8.chunk.js.map": "/Jrobill4rd/monsters-rolodex.git/static/js/2.4ae214a8.chunk.js.map",
-    "static/js/3.9fb4beb9.chunk.js": "/Jrobill4rd/monsters-rolodex.git/static/js/3.9fb4beb9.chunk.js",
-    "static/js/3.9fb4beb9.chunk.js.map": "/Jrobill4rd/monsters-rolodex.git/static/js/3.9fb4beb9.chunk.js.map",
-    "index.html": "/Jrobill4rd/monsters-rolodex.git/index.html",
-    "static/css/main.4d0d8f6a.chunk.css.map": "/Jrobill4rd/monsters-rolodex.git/static/css/main.4d0d8f6a.chunk.css.map",
-    "static/js/2.4ae214a8.chunk.js.LICENSE.txt": "/Jrobill4rd/monsters-rolodex.git/static/js/2.4ae214a8.chunk.js.LICENSE.txt"
+    "main.css": "/React-Rolodex/static/css/main.4d0d8f6a.chunk.css",
+    "main.js": "/React-Rolodex/static/js/main.5b43abc4.chunk.js",
+    "main.js.map": "/React-Rolodex/static/js/main.5b43abc4.chunk.js.map",
+    "runtime-main.js": "/React-Rolodex/static/js/runtime-main.541e3aab.js",
+    "runtime-main.js.map": "/React-Rolodex/static/js/runtime-main.541e3aab.js.map",
+    "static/js/2.4ae214a8.chunk.js": "/React-Rolodex/static/js/2.4ae214a8.chunk.js",
+    "static/js/2.4ae214a8.chunk.js.map": "/React-Rolodex/static/js/2.4ae214a8.chunk.js.map",
+    "static/js/3.9fb4beb9.chunk.js": "/React-Rolodex/static/js/3.9fb4beb9.chunk.js",
+    "static/js/3.9fb4beb9.chunk.js.map": "/React-Rolodex/static/js/3.9fb4beb9.chunk.js.map",
+    "index.html": "/React-Rolodex/index.html",
+    "static/css/main.4d0d8f6a.chunk.css.map": "/React-Rolodex/static/css/main.4d0d8f6a.chunk.css.map",
+    "static/js/2.4ae214a8.chunk.js.LICENSE.txt": "/React-Rolodex/static/js/2.4ae214a8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.36b93b16.js",
+    "static/js/runtime-main.541e3aab.js",
     "static/js/2.4ae214a8.chunk.js",
     "static/css/main.4d0d8f6a.chunk.css",
     "static/js/main.5b43abc4.chunk.js"
